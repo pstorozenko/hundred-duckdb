@@ -2,7 +2,7 @@
 
 (Failed) Experiment of concurrent reads and writes to sqlite/duckdb with fastapi guard on the way.
 
-Please like [this comment](https://github.com/duckdb/duckdb/issues/77#issuecomment-1116592564) if it bother you as well.
+Please like [this comment](https://github.com/duckdb/duckdb/issues/77#issuecomment-1116592564) if it bothers you as well.
 
 Written under `python=3.10`.
 
