@@ -13,3 +13,5 @@ To run it yourself:
 3. Run `streamlit run main.py`
 4. Run `python test_many_connections.py`
 5. Try using the streamlit app, it will probably crash if the `test_many_connections.py` script is running.
+
+![Application](images/app.png)
